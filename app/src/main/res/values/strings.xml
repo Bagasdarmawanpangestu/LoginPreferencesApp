@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loign Preferences</string>
+    <string name="buat_akun_sekarang_juga">Buat Akun Sekarang Juga</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="kembali">Kembali</string>
+    <string name="buat_akun">Buat Akun</string>
+</resources>
